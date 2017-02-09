@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.toshiba.happybirthday.Main2Activity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="Sing sing sing along a Happy birthday song
+Rejoice make merry it’s a happy occasion
+Happy Birthday Dear … Its celebration
+Sing sing sing along a Happy birthday song
+Hum a tune, beat a drum
+hit the keys and strum along
+Happy birthday Dear …
+
+Hey hey it’s your birthday, have a great day
+It’s time for fun, it’s time for laugh it’s time to celebrate
+Tap your toes, dance a jig
+Clap your hands and merry around
+Sing sing sing along a happy birthday song
+Hum a tune, beat a drum
+hit the keys and strum along
+Happy birthday Dear …
+
+Hum a tune, beat a drum
+hit the keys and strum along
+Happy birthday Dear …
+
+Hum a tune, beat a drum
+hit the keys and strum along
+Happy birthday Dear … "
+    android:textColor="#000"
+    android:textStyle="bold"
+    android:textSize="20dp"/>
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
